@@ -14,15 +14,17 @@ This repository attempts to identify the travel patterns based on different acti
         3. Spatial dynamics - Frequency distribution from hexagon regions within a study area </br> 
  
 <br/> 
-Sample illustrations of travel patterns: 
-1. Temporal regularities 
-![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg)
-2. Trip length distributions 
-![Spatial dynamics](https://github.com/dineth33/Travel-pattern-analysis/blob/master/spatial%20dynamics/residential.png)
-3. Spatial dynamics 
-![Trip length](https://github.com/dineth33/Travel-pattern-analysis/blob/master/trip%20length%20distributions/residential_trip_lengths.jpg)
         
 <b> Notes: </b> </br> 
 passenger trips should be in gps records including the orign and destination clearly </br> 
 please change the variable, feature and  file names according to your requirement  </br> 
 feather file format has been used to efficient data transfers 
+
+Sample illustrations of travel patterns: 
+
+1. Temporal regularities </br> 
+![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg)
+2. Trip length distributions </br> 
+![Spatial dynamics](https://github.com/dineth33/Travel-pattern-analysis/blob/master/spatial%20dynamics/residential.png)
+3. Spatial dynamics </br> 
+![Trip length](https://github.com/dineth33/Travel-pattern-analysis/blob/master/trip%20length%20distributions/residential_trip_lengths.jpg)
