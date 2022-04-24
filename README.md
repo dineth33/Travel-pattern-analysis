@@ -4,6 +4,7 @@
 <br/>
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dineth33/Travel-pattern-analysis/master)
+![GitHub](https://img.shields.io/github/license/dineth33/Travel-pattern-analysis?style=flat-square)
 
 This repository attempts to identify the travel patterns based on different activities performed by the passengers according to three main criteria. </br> 
         1. Temporal regularities  - Variation of the number of trips in each time of a day and day of the week </br>
