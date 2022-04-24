@@ -14,9 +14,12 @@ This repository attempts to identify the travel patterns based on different acti
         3. Spatial dynamics - Frequency distribution from hexagon regions within a study area </br> 
  
 <br/> 
-<br/>
-        
-
+Sample illustrations of travel patterns: 
+1. Temporal regularities 
+![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg)
+2. Trip length distributions 
+![Spatial dynamics](https://github.com/dineth33/Travel-pattern-analysis/blob/master/spatial%20dynamics/residential.png)
+3. Spatial dynamics 
 ![Trip length](https://github.com/dineth33/Travel-pattern-analysis/blob/master/trip%20length%20distributions/residential_trip_lengths.jpg)
         
 <b> Notes: </b> </br> 
