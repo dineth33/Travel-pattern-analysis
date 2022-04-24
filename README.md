@@ -23,8 +23,9 @@ feather file format has been used to efficient data transfers
 Sample illustrations of travel patterns: 
 
 1. Temporal regularities </br> 
-![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg)
+![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg = 100x20)
 2. Trip length distributions </br> 
-![Spatial dynamics](https://github.com/dineth33/Travel-pattern-analysis/blob/master/spatial%20dynamics/residential.png)
-3. Spatial dynamics </br> 
 ![Trip length](https://github.com/dineth33/Travel-pattern-analysis/blob/master/trip%20length%20distributions/residential_trip_lengths.jpg)
+3. Spatial dynamics </br> 
+![Spatial dynamics](https://github.com/dineth33/Travel-pattern-analysis/blob/master/spatial%20dynamics/residential.png)
+
