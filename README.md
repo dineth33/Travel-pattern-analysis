@@ -16,6 +16,9 @@ This repository attempts to identify the travel patterns based on different acti
 <br/> 
 <br/>
         
+
+![Trip length](https://github.com/dineth33/Travel-pattern-analysis/blob/master/trip%20length%20distributions/residential_trip_lengths.jpg)
+        
 <b> Notes: </b> </br> 
 passenger trips should be in gps records including the orign and destination clearly </br> 
 please change the variable, feature and  file names according to your requirement  </br> 
