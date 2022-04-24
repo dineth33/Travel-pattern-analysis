@@ -20,7 +20,7 @@ passenger trips should be in gps records including the orign and destination cle
 please change the variable, feature and  file names according to your requirement  </br> 
 feather file format has been used to efficient data transfers 
 
-Sample illustrations of travel patterns: 
+<b> Sample illustrations of travel patterns: </b>
 
 1. Temporal regularities </br> 
 ![Temporal regularities](https://github.com/dineth33/Travel-pattern-analysis/blob/master/temporal%20regularities/residential_temporal_regularties.jpg)
